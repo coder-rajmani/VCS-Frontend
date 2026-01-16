@@ -150,13 +150,13 @@ src/
 │── main.jsx                  # Entry point
 │── App.jsx                   # App wrapper (if present)
 
-
+```
 ---
 
 ## 👩‍💻 Author
 
 **Rajmani**  
-📌 Frontend Developer | React Developer  
+Frontend Developer | React Developer  
 🔗 GitHub: https://github.com/coder-rajmani  
 
 ---
