@@ -9,7 +9,7 @@ This project is built using **React + Vite** and deployed on **AWS Amplify**, co
 
 ## 🌐 Live Demo Links
 
-✅ **Frontend (AWS Amplify):** https://main.d1ca4l9j49evry.amplifyapp.com  
+✅ **Frontend :** https://vcs-frontend-five.vercel.app/  
 ✅ **Backend (Render):** https://vcs-backend-ynkn.onrender.com  
 
 ---
